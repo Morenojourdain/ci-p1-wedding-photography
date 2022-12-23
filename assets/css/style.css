@@ -1,0 +1,9 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    background-color: #121212;
+}
