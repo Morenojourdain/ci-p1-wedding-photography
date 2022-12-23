@@ -7,3 +7,20 @@ body {
     color: #ffffff;
     background-color: #121212;
 }
+
+/* navigation links */
+
+#logo {
+    font-family: 'Playfair', sans-serif;
+    color: #bb86fc;
+    letter-spacing: 4px;
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+    }
+}
+
+#logo a {
+    text-decoration: none;
+
+}
